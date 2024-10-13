@@ -1,1 +1,2 @@
 # A-B-testing
+This project found in Advanced Data Analytics by Google uses python to conduct A/B testing in a hypothetical scenario. The scenario assumes that two groups were randomly divided and required to make their payments for a cab trip in either cash or credit card. Once that assumption is made, it is also asssumed that the for both customers were normaly distributed and, therefore, two sample t-test could be used to compare the means of both groups. The project uses advanced statistical concepts such as hypothesis testing and p values to draw a conclusion.
